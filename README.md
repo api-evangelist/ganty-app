@@ -1,4 +1,4 @@
-# ganty-app
+# Ganty
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ganty-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://ganty.app/
+Ganty provides a free AI‑powered Gantt chart maker that lets users create, edit, and share project schedules online. The platform offers drag‑and‑drop scheduling, automatic dependency handling, and AI‑generated timelines from simple project descriptions. It targets teams of up to three members with a no‑credit‑card free tier, and includes features such as task dependencies, resource allocation, and multiple chart views. Ganty also supplies resources, case studies, and integration options for various workflows.
+
+**Areas:** Company · AI · Project Management · Gantt · Scheduling
+
+## Ganty on APIs.io
+
+Everything profiled for Ganty is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ganty-app/](https://apis.io/providers/ganty-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Ganty API](https://apis.io/apis/ganty-app/ganty-api/) — API referenced in Ganty developer portal
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ganty Domain Security](https://apis.io/security/ganty-app/ganty-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Ganty Plans Pricing](https://apis.io/plans/ganty-app/ganty-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ganty.app/)
+- [Documentation](https://ganty.app/en/guide)
+- [Getting started](https://ganty.app/en/guide/getting-started)
+- [API reference](https://ganty.app/en/integrations/mcp)
+- [Pricing](https://ganty.app/en/pricing)
+- [Support](https://ganty.app/en/help)
+- [Blog](https://ganty.app/en/blog)
+- [Terms of service](https://ganty.app/en/terms)
+- [Privacy policy](https://ganty.app/en/privacy)
+
+## API Evangelist rating
+
+**Kin Score 27.3** — thin · rubric 0.27.0 · scored 2026-11-09
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 60.0 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ganty-app/](https://apis.io/providers/ganty-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ganty: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ganty-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
